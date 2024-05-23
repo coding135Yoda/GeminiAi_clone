@@ -2,12 +2,12 @@ import React from 'react'
 import Sidebar from './components/sidebar/Sidebar'
 import Main from './components/Main/Main'
 
-const App = ()=> {
+const  App =()=> {
   return (
     <>
-      <Sidebar/>
-      <Main/>
-      </>
+    <Sidebar/>
+    <Main/>
+    </>
   )
 }
 
